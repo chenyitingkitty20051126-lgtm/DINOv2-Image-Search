@@ -60,7 +60,13 @@ python app.py
 * **检索响应时间**：基于 NumPy 矩阵点积运算，单次查询耗时 < 500ms。
 
 ## 📂 项目结构 (Project Structure)
+<img width="2644" height="6116" alt="Iris ML Classification-2026-01-16-185257" src="https://github.com/user-attachments/assets/9f596cbb-205e-4723-84bf-1f9726ef2ec9" />
 
+<img width="2581" height="7798" alt="Iris ML Classification-2026-01-16-185158" src="https://github.com/user-attachments/assets/32104259-02c2-4efb-a8fb-53fe4370b374" />
+
+<img width="4125" height="3230" alt="Iris ML Classification-2026-01-16-185145" src="https://github.com/user-attachments/assets/c4ca0bc0-7467-4a20-ac3d-a921b00b2f59" />
+
+<img width="5970" height="3560" alt="Iris ML Classification-2026-01-16-192021" src="https://github.com/user-attachments/assets/6a82fe33-f816-4f39-937f-58cda774e678" />
 
 ## 📝 许可证 (License)
 
