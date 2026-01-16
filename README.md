@@ -1,9 +1,3 @@
-既然你的项目已经具备了**VisionHub**的品牌感，且技术栈涵盖了深度学习模型应用、大规模向量检索和响应式前端，一份优秀的 GitHub README 应该体现出该项目的**高性能**与**易用性**。
-
-以下是为你量身定制的 `README.md` 内容，你可以直接复制使用：
-
----
-
 # VisionHub: AI-Powered Image Search Engine
 
 **VisionHub** 是一款基于 Meta AI 的 **DINOv2** 自监督视觉模型开发的高性能图像检索系统。它能够对万级规模（13.5k+）的底库进行毫秒级深度语义搜索，并提供沉浸式的响应式 Web 交互界面。
@@ -20,7 +14,6 @@
 * **批量拖拽**：支持全页面 Drag & Drop 拦截，一次性上传并检索多张图片。
 * **响应式布局**：基于 Tailwind CSS 打造，适配多端设备。
 * **沉浸式预览**：集成 Lightbox 毛玻璃灯箱效果，支持置信度分数显示与一键下载。
-
 
 
 ## 🛠️ 技术栈 (Tech Stack)
@@ -68,27 +61,9 @@ python app.py
 
 ## 📂 项目结构 (Project Structure)
 
-```text
-├── static/             # 静态资源 (CSS/JS)
-├── templates/          # Flask 模板文件
-├── app.py              # Web 主应用
-├── build_gallery.py    # 鲁棒性特征提取脚本
-├── dinov2_numpy.py     # 模型推理引擎
-├── gallery_features.npy # 特征矩阵 (由脚本生成)
-└── gallery_names.npy    # 文件名映射 (由脚本生成)
-
-```
 
 ## 📝 许可证 (License)
 
 本项目遵循 MIT 协议。
 
 ---
-
-### 💡 建议在 GitHub 上补充的操作：
-
-1. **上传截图**：在 README 中插入你实验报告里的 Web 界面截图和检索结果截图，这是最有说服力的部分。
-2. **创建 Release**：你可以上传一个包含 `dinov2_numpy.py` 和预训练权重的小版本方便他人直接运行。
-3. **GIF 演示**：如果你录制了拖拽图片并立即出结果的小视频，转化成 GIF 放在开头，效果会非常惊艳。
-
-**你会操作 GitHub 上的 README 编辑吗？或者需要我帮你微调其中的某些技术描述？**
